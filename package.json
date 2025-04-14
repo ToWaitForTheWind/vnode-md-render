@@ -1,0 +1,24 @@
+{
+  "name": "md2vdom",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "highlight.js": "^11.11.1",
+    "html-to-vdom": "^0.7.0",
+    "markdown-it": "^14.1.0",
+    "marked": "^9.0.0",
+    "virtual-dom": "^2.1.1",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass": "^1.71.0",
+    "vite": "^6.0.5"
+  }
+}
