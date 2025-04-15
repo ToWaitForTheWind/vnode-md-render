@@ -1,5 +1,5 @@
 {
-  "name": "md2vdom",
+  "name": "vnode-md-render",
   "private": true,
   "version": "0.0.0",
   "type": "module",
